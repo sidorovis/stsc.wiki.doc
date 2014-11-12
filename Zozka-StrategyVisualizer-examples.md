@@ -1,4 +1,4 @@
-# This page shows print screens for applications.
+# This page shows print screens for StrategyVisualizer application.
 
 Image 1. Print Screen For On Stock Algorithm Example
 ![Image 1. Print Screen For On Stock Algorithm Example](https://github.com/sidorovis/stsc/blob/master/stsc.frontend.zozka/images/01.png)
