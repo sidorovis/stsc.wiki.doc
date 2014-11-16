@@ -1,5 +1,9 @@
 # This page shows print screens for StrategyVisualizer application.
 
+StrategyVisualiser is a application to draw 
+1) charts for EOD on stock algorithms for selected stock (datafeed), period;
+2) charts for EOD trading strategies for selected datafeed, period.
+
 Image 1. Print Screen For On Stock Algorithm Example
 ![Image 1. Print Screen For On Stock Algorithm Example](https://github.com/sidorovis/stsc/blob/master/stsc.frontend.zozka/images/01.png)
 
