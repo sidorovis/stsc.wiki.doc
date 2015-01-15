@@ -1,6 +1,9 @@
 On Stock Algorithms tree:
 
-##### stsc.algorithms(common)
+[algorithms list](https://github.com/sidorovis/stsc/wiki/Algorithms-Tree)
+
+##### [stsc.algorithms(common)](https://github.com/sidorovis/stsc/wiki/algorithms-tree/Stsc-Algorithms(Common))
+
  * Input
 ```
 { {no_input},
