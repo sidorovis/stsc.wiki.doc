@@ -2,25 +2,7 @@ On Stock Algorithms tree:
 
 ##### [stsc.algorithms(common)](https://github.com/sidorovis/stsc/wiki/Algorithms-Tree-Stsc-Algorithms(Common))
 
-##### stsc.algorithms.eod.indices.adl
- * AdlAdl
-```
-{ {no_input},
-e -> [Integer: size (2 by default)]}
--> DoubleSignal.
-```
- * AdlAdln
-```
-{ {no_input},
-e -> [Integer: size (2 by default)]}
--> DoubleSignal.
-```
- * AdlAdlt
-```
-{ {no_input},
-e -> [Integer: size (2 by default)]}
--> DoubleSignal.
-```
+##### [stsc.algorithms.eod.indices.adl](https://github.com/sidorovis/stsc/wiki/Algorithms-Tree-Stsc-Algorithms-Eod-Indices-Adl)
 
 ##### stsc.algorithms.eod.primitive
 TODO End of day primitive (test-like) algortihms (with positions and auto monitoring).
