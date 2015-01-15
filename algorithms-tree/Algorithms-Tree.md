@@ -1,6 +1,6 @@
 On Stock Algorithms tree:
 
-##### [stsc.algorithms(common)](https://github.com/sidorovis/stsc/wiki/algorithms-tree/Stsc-Algorithms(Common))
+##### [stsc.algorithms(common)](https://github.com/sidorovis/stsc/wiki/Algorithms-Tree-Stsc-Algorithms(Common))
 
 ##### stsc.algorithms.eod.indices.adl
  * AdlAdl
