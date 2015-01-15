@@ -12,65 +12,12 @@ On Stock Algorithms tree:
 
 ##### [stsc.algorithms.stock.indices](https://github.com/sidorovis/stsc/wiki/Algorithms-Tree-Stsc-Algorithms-Stock-Indices)
 
-##### stsc.algorithms.stock.indices.adi
- * AdiClv
-```
-{ {no_input}, 
-e -> [Integer: size (2 by default) ]} 
--> DoubleSignal.
-```
- * AdiAccDist
-```
-{ {no_input}, 
-e -> [Integer: size (2 by default) ], 
-e -> [Double: K (0.0001 by default) ]}
--> DoubleSignal.
-```
+##### [stsc.algorithms.stock.indices.adi](https://github.com/sidorovis/stsc/wiki/Algorithms-Tree-Stsc-Algorithms-Stock-Indices-Adi)
 
-##### stsc.algorithms.stock.indices.adx
- * AdxAdx
-```
-{ {no_input}, 
-e -> [Integer: N (14 by default), nSma (14 by default), size (2 by default) ]} 
--> DoubleSignal.
-```
- * AdxDi
-```
-{ {no_input}, 
-e -> [Integer: size (2 by default) ]} 
--> ListOfDoubleSignal (dmMinus/trueRange, dmPlus/trueRange).
-```
- * AdxDm
-```
-{ {no_input}, 
-e -> [Integer: size (2 by default) ]} 
--> ListOfDoubleSignal (dmMinus, dmPlus).
-```
- * AdxDxi
-```
-{ {no_input}, 
-e -> [Integer: N (14 by default), size (2 by default) ]} 
--> DoubleSignal.
-```
- * AdxAdxr
-```
-{ {no_input},
-e -> [Integer: N (14 by default) ]}
--> DoubleSignal.
-```
-##### stsc.algorithms.stock.indices.atr
- * AtrTrueRange
-```
-{ {no_input}, 
-e -> [Integer: size (2 by default) ]}
--> DoubleSignal.
-```
- * AtrAtr
-```
-{ {no_input}, 
-e -> [Integer: size (2 by default), N (14 by default) ]}
--> DoubleSignal.
-```
+##### [stsc.algorithms.stock.indices.adx](https://github.com/sidorovis/stsc/wiki/Algorithms-Tree-Stsc-Algorithms-Stock-Indices-Adx)
+
+##### [stsc.algorithms.stock.indices.atr](https://github.com/sidorovis/stsc/wiki/Algorithms-Tree-Stsc-Algorithms-Stock-Indices-Atr)
+
 ##### stsc.algorithms.stock.indices.bb
  * BollingerBands
 ```
