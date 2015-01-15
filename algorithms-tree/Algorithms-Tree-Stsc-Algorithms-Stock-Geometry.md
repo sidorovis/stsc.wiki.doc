@@ -1,0 +1,25 @@
+##### stsc.algorithms.stock.geometry
+ * LeastSquaresQuadraticValue
+```
+{ {1: DoubleSignal}, 
+e -> [Integer: size (2 by default), N (5 by default) ]} 
+-> ListOfDoubleSignal.
+```
+ * LeastSquaresQuadraticStdDev
+```
+{ {1: DoubleSignal}, 
+e -> [Integer: size (2 by default), N (5 by default) ]} 
+-> DoubleSignal.
+```
+ * LeastSquaresStraightValue
+```
+{ {1: DoubleSignal}, 
+e -> [Integer: size (2 by default), N (5 by default) ]} 
+-> ListOfDoubleSignal.
+```
+ * LeastSquaresStraightStdDev
+```
+{ {1: DoubleSignal}, 
+e -> [Integer: size (2 by default), N (5 by default) ]} 
+-> DoubleSignal.
+```

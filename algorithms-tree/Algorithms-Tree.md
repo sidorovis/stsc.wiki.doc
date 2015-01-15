@@ -4,33 +4,9 @@ On Stock Algorithms tree:
 
 ##### [stsc.algorithms.eod.indices.adl](https://github.com/sidorovis/stsc/wiki/Algorithms-Tree-Stsc-Algorithms-Eod-Indices-Adl)
 
-##### stsc.algorithms.eod.primitive
-TODO End of day primitive (test-like) algortihms (with positions and auto monitoring).
-##### stsc.algorithms.stock.geometry
- * LeastSquaresQuadraticValue
-```
-{ {1: DoubleSignal}, 
-e -> [Integer: size (2 by default), N (5 by default) ]} 
--> ListOfDoubleSignal.
-```
- * LeastSquaresQuadraticStdDev
-```
-{ {1: DoubleSignal}, 
-e -> [Integer: size (2 by default), N (5 by default) ]} 
--> DoubleSignal.
-```
- * LeastSquaresStraightValue
-```
-{ {1: DoubleSignal}, 
-e -> [Integer: size (2 by default), N (5 by default) ]} 
--> ListOfDoubleSignal.
-```
- * LeastSquaresStraightStdDev
-```
-{ {1: DoubleSignal}, 
-e -> [Integer: size (2 by default), N (5 by default) ]} 
--> DoubleSignal.
-```
+##### [stsc.algorithms.eod.primitive](https://github.com/sidorovis/stsc/wiki/Algorithms-Tree-Stsc-Algorithms-Eod-Primitive)
+
+##### [stsc.algorithms.stock.geometry](https://github.com/sidorovis/stsc/wiki/Algorithms-Tree-Stsc-Algorithms-Stock-Geometry)
 
 ##### stsc.algorithms.stock.indices.primitive
  * Diff
