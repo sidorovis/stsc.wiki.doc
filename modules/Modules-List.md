@@ -73,6 +73,7 @@ This module store mechanism to migrate database (currently we use sqlite) with l
 This module store and provide access to feedzilla data. Feed divided onto three tables (Categories, Subcategories, Articles).
 
 Access guaranteed using Ormlite.
+Also we have file-based storage.
 
 ## stsc.performance
 
