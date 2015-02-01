@@ -23,3 +23,15 @@ e -> [Integer: size (2 by default), N (5 by default) ]}
 e -> [Integer: size (2 by default), N (5 by default) ]} 
 -> DoubleSignal.
 ```
+ * FibonacciRetracementBullStdDev
+```
+{ {1: DoubleSignal}, 
+e -> [Integer: size (5 by default) ]} 
+-> DoubleSignal.
+```
+ * FibonacciRetracementBearStdDev
+```
+{ {1: DoubleSignal}, 
+e -> [Integer: size (5 by default) ]} 
+-> DoubleSignal.
+```
