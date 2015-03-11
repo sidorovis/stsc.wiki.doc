@@ -1,6 +1,6 @@
 Welcome to the Stsc wiki!
 
-![Main project page](https://github.com/sidorovis/stsc)
+[Main project page](https://github.com/sidorovis/stsc)
 
 Stsc is a bunch of tools to create algorithmic trading strategies. 
 
@@ -40,4 +40,7 @@ Workflow for generating algorithmic strategies includes next phases:
 
 4. Algorithm testing.
 
- 
+### R&D 
+
+1. [R&D Stock Market Cycles](https://github.com/sidorovis/stsc/wiki/R-And-D-Stock-Market-Cycles)
+
