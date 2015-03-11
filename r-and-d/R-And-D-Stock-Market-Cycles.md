@@ -5,6 +5,6 @@ The goal of this research is to find correct algorithms call order to recognize 
 
 ### Using .Sma with big N period
 
-![](https://github.com/github/sidorovis/stsc/wiki/r-and-d-Stock-Market-Cycles)
+![](https://github.com/sidorovis/stsc/wiki/images/r_and_d/issues_58/sma_on_spy_with_different_N.png)
 
 
