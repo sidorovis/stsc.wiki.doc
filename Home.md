@@ -1,5 +1,7 @@
 Welcome to the Stsc wiki!
 
+![Main project page](https://github.com/sidorovis/stsc)
+
 Stsc is a bunch of tools to create algorithmic trading strategies. 
 
 This is a complicated system that require you to be familiar with several topics in algorithm trading.
