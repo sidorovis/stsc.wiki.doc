@@ -2,6 +2,7 @@
 # Stock Market Cycles R&D
 
 The goal of this research is to find correct algorithms call order to recognize common market cycles (6-th years cycles).
+Commision: 0.001 (0.1%).
 
 ### Using .Sma with big N period
 
