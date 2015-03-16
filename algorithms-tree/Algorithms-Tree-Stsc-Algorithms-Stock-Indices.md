@@ -6,6 +6,13 @@ e -> [Integer: size (2 by default); ]
 e -> [Double: K (by default 1.0/0.015), N (5 by default)] } 
 -> DoubleSignal.
 ```
+ * MarketTrend
+```
+{ {no_input},
+e -> [Integer: size (2 by default); ]
+e -> [String: SN (by default 'spy') ] }
+-> DoubleSignal.
+```
  * MaxForNDays
 ```
 { {1: DoubleSignal;}, 
