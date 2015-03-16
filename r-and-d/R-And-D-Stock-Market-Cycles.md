@@ -26,3 +26,9 @@ Commision: 0.001 (0.1%).
 
 ![](https://github.com/sidorovis/stsc/wiki/images/r_and_d/issues_58/equity_for_60_m60_sma50.png)
 
+
+##### Example of Genetic Search for such algorithm.
+
+![](https://github.com/sidorovis/stsc/wiki/images/r_and_d/issues_58/algo_search.png)
+
+
