@@ -44,3 +44,6 @@ Workflow for generating algorithmic strategies includes next phases:
 
 1. [R&D Stock Market Cycles](https://github.com/sidorovis/stsc/wiki/R-And-D-Stock-Market-Cycles)
 
+2. [R&D Support And Resistance Level](https://github.com/sidorovis/stsc/wiki/R-And-D-Support-And-Resistance-Level)
+
+
