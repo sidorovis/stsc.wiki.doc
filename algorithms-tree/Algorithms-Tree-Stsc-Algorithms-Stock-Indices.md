@@ -43,17 +43,23 @@ e -> [Integer: size (2 by default), N (5 by default)] }
 e -> [Integer: size (2 by default), N (5 by default)] } 
 -> DoubleSignal.
 ```
- * StockMarketCycle
-```
-{ {},
-e -> [Integer: smaSmallSize (15 by default)],
-e -> [Double: smasDiv (1.5 by default), divDiff (0.01 by default), divSmallDiff (0.0 by default)] }
--> DoubleSignal.
-```
  * StochasticOscillator
 ```
 { {no_input}, 
 e -> [Integer: size (2 by default), P (5 by default), SP (0 by default)] } 
+-> DoubleSignal.
+```
+ * StockMarketCycle
+```
+{ {no_input},
+e -> [Integer: smaSmallSize (15 by default)],
+e -> [Double: smasDiv (1.5 by default), divDiff (0.01 by default), divSmallDiff (0.0 by default)] }
+-> DoubleSignal.
+```
+ * SupportLevel
+```
+{ {1: DoubleSignal;},
+e -> [Integer: size (2 by default), N (8 by default), M (66 by default)],
 -> DoubleSignal.
 ```
  * Trix
