@@ -43,6 +43,12 @@ e -> [Integer: size (2 by default), N (5 by default)] }
 e -> [Integer: size (2 by default), N (5 by default)] } 
 -> DoubleSignal.
 ```
+ * ResistanceLevel
+```
+{ {1: DoubleSignal;},
+e -> [Integer: size (2 by default), N (8 by default), M (66 by default)],
+-> DoubleSignal.
+```
  * StochasticOscillator
 ```
 { {no_input}, 
