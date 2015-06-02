@@ -5,7 +5,7 @@ Using this application it is possible to inspect downloaded datafeed and re-down
 ZozkaDatafeedChecker provide easy to use interface and understandable (including chart comparing) dialogs.
 
 Example of Main Window
-![](https://github.com/sidorovis/stsc/wiki/images/zozka_datafeed_checker/001.png)
+![Example of Main Window](https://github.com/sidorovis/stsc/wiki/images/zozka_datafeed_checker/001.png)
 
 Example of dialog for redownload
 ![Example of dialog for redownload](https://github.com/sidorovis/stsc/wiki/images/zozka_datafeed_checker/002.png)
